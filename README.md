@@ -16,7 +16,7 @@
 
 ## How To Use
 
-1. Install the extension
+1. Install the extension from AMO.
 2. Open a YouTube video
 3. Click the ⚙️ settings icon
 4. Toggle ReTime ON/OFF
@@ -28,7 +28,7 @@
 
 - If you see `NaN`, the video hasn't fully loaded yet.
 - Works silently in the background once enabled.
-
+- Currently only available on FireFox.
 ---
 
 ## Coming Soon
