@@ -16,7 +16,7 @@
 
 ## How To Use
 
-1. Install the extension from AMO.
+1. Install the extension from AMO :- https://addons.mozilla.org/addon/retime/
 2. Open a YouTube video
 3. Click the ⚙️ settings icon
 4. Toggle ReTime ON/OFF
